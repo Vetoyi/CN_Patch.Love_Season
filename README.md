@@ -1,4 +1,4 @@
-![image](https://github.com/Vetoyi/CN_Patch.Love_Season/blob/main/%E5%B0%81%E9%9D%A2.jpg)
+![image](https://github.com/Vetoyi/CN_Patch.Love_Season/blob/main/%E5%B0%81%E9%9D%A2(Love%20Season).jpg)
 # <p align="center">:video_game:Love Season</p>
 **<p align="center">:cn:：恋爱季节／恋爱的季节</p>**
 <p align="center">Steam正版汉化补丁，请支持正版游戏！</p>
