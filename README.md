@@ -1,7 +1,4 @@
-<p align="center">
-  
-  ![image](https://cdn.cloudflare.steamstatic.com/steam/apps/1732050/capsule_616x353.jpg?t=1631118098)</p>
-
+![image](https://cdn.cloudflare.steamstatic.com/steam/apps/1732050/capsule_616x353.jpg?t=1631118098)
 # <p align="center">:video_game:Love Season</p>
 **<p align="center">:cn:：恋爱季节／恋爱的季节</p>**
 <p align="center">Steam正版汉化补丁，请支持正版游戏！</p>
