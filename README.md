@@ -77,7 +77,7 @@
 
 2. 将修改过后的汉化补丁(game，renpy)解压至**具体步骤**中的**第2步**弹出的游戏文件夹Love Season；
 
-3. 进入弹出的游戏文件夹Love Season中的game文件夹，找到script.rpy(找不到就搜索)并右键以记事本打开，在文本的最上面加一新行**define config.language = "chinese"**后保存修改(复制加粗部分)。
+3. 进入弹出的游戏文件夹Love Season中的game文件夹，找到script.rpy(找不到就搜索)并右键以记事本打开，在文本的最上面加一新行`define config.language = "chinese"`后保存修改。
 
 
 ***
