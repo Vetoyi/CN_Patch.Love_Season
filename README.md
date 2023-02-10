@@ -43,7 +43,7 @@
 <br>补丁版本：0.01
 <br>适配Steam版本：1.11
 <br>适配Depots Update：2022.07.11 (11 July 2022 – 11:51:01 UTC)
-<br>检查Depots Update：[(GAME)Love Season](https://steamdb.info/depot/1732051/manifests/)　[(DLC)Winter](https://steamdb.info/depot/1910070/manifests/)
+<br>检查Depots Update：[[GAME]Love Season](https://steamdb.info/depot/1732051/manifests/)　[[DLC]Winter](https://steamdb.info/depot/1910070/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码g7gt)](https://pan.baidu.com/s/1hjUMl_I__fqXErzQ7IJIGQ)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.Love_Season/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁](https://github.com/Vetoyi/CN_Patch.Love_Season#o必读bangbang如何使用补丁)”
